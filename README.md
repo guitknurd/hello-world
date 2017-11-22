@@ -12,3 +12,7 @@ github site after I commit the addition of this text.
 
 adding more text to get "git remote origin" syntax working.  is is working?
 
+## add another one of these
+
+I was going to remove the Ravi added tesxt but a voice in the back of my head said, "NO!!"
+so I didn't...
